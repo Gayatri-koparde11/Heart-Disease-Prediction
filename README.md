@@ -1,7 +1,14 @@
-# multiple-disease-prediction-streamlit-app
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+# Heart Disease Prediction
 
-app.py is the streamlit app code.
-run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+A machine learning project to predict the likelihood of heart disease using patient health data. Built with Logistic Regression and SVM algorithms.
 
-You may need to install additional libraries for running the jupyter notebooks.
+## Features
+- Predicts likelihood of heart disease
+- Data preprocessing and visualization
+- Achieves high accuracy for early diagnosis
+
+## Technologies
+Python, Scikit-learn, Pandas, Matplotlib
+
+## View Project
+[GitHub Repository](https://github.com/Gayatri-koparde11/Heart-Disease-Prediction)
