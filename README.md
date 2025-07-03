@@ -1,14 +1,25 @@
-# Heart Disease Prediction
+❤️ Heart Disease Prediction
+A machine learning project designed to predict the likelihood of heart disease based on patient health parameters. This project leverages Logistic Regression and Support Vector Machine (SVM) algorithms to analyze patient data and provide early insights for preventive healthcare.
 
-A machine learning project to predict the likelihood of heart disease using patient health data. Built with Logistic Regression and SVM algorithms.
+✨ Features
+🩺 Predicts the likelihood of heart disease from patient health data.
 
-## Features
-- Predicts likelihood of heart disease
-- Data preprocessing and visualization
-- Achieves high accuracy for early diagnosis
+🔄 Includes comprehensive data preprocessing: handling missing values, feature scaling, and encoding.
 
-## Technologies
-Python, Scikit-learn, Pandas, Matplotlib
+📊 Generates visualizations (histograms, correlation heatmaps, etc.) for EDA (Exploratory Data Analysis).
 
-## View Project
-[GitHub Repository](https://github.com/Gayatri-koparde11/Heart-Disease-Prediction)
+✅ Implements multiple ML models (Logistic Regression and SVM) for comparison.
+
+📈 Achieves high accuracy for early diagnosis support.
+
+📝 Provides insights into key factors influencing heart disease predictions.
+
+🛠️ Technologies Used
+Programming Language: Python
+
+Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
+Tools: Jupyter Notebook / Google Colab
+
+Algorithms: Logistic Regression, Support Vector Machine (SVM)
+
